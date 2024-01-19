@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) throws SQLException {
         // database.Database db = new database.Database();
 
-        Database.username = "root";
+        Database.username = "";
         Database.password = "";
 
         Database.database = "librarydb";
