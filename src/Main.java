@@ -12,7 +12,7 @@ public class Main {
         // database.Database db = new database.Database();
 
         Database.username = "root";
-        Database.password = "Magn0lia9690";
+        Database.password = "";
 
         Database.database = "librarydb";
 
