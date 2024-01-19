@@ -2,6 +2,8 @@
 [Programmet hanteras i terminalen på intelliJ, instruktioner ska vara klara vad som ska göras. 
 Har använt jdk 21.]
 
+[Använd 'Neil@gmail.com' för inloggning och 'hhunter2' för lösenord. Har ändrat i några av de andra användare så användarnamn och lösenord stämmer inte övereens där.]
+
 [Inte säkert jag fått med allt från databashanterare (inte säker på att back upp funkade som den skulle) skickar med textfil här.]
 
 USE librarydb;
